@@ -28,6 +28,16 @@
     </dependency>
   </dependencies>
 
+<dependencies>
+    <dependency>
+      <groupId>ABC</groupId>
+      <artifactId>ABC</artifactId>
+      <version>4.13.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+
   <build>
     <finalName>01-Maven-App</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
